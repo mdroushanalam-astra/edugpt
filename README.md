@@ -1,4 +1,4 @@
-# EduGPT — Autonomous Multi-Agent Cognitive Tutoring Research 📖🤖
+# EduGPT:  Autonomous Multi-Agent Cognitive Tutoring Research 📖🤖
 
 <div align="center">
 
